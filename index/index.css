@@ -9,6 +9,7 @@ body{
 }
 
 #indexTitle{
+    width: 100vw;
     color: #c595fa;
     text-align: center;
 }
