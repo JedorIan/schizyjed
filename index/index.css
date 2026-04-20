@@ -2,6 +2,7 @@ body{
     background-color: #1A0129;
     color: white;
     justify-content: center;
+    align-items: center;
 }
 
 #indexTitle{
