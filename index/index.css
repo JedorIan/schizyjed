@@ -16,6 +16,8 @@ body{
 
 .linkBlock{
     border: solid 5px black;
+    margin: 0;
+    
 }
 
 .linkBlock, a{
