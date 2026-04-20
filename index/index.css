@@ -8,6 +8,6 @@ body{
     text-align: center;
 }
 
-.linkBlock{
+.linkBlock, a{
     text-decoration: none;
 }
