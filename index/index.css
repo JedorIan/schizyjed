@@ -1,6 +1,7 @@
 body{
     background-color: #1A0129;
     color: white;
+    justify-content: center;
 }
 
 #indexTitle{
@@ -10,4 +11,5 @@ body{
 
 .linkBlock, a{
     text-decoration: none;
+    color: white;
 }
