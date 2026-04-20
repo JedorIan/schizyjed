@@ -10,12 +10,18 @@ body{
 }
 
 #indexTitle{
+    border: solid 5px black;
+
     color: #c595fa;
     text-align: center;
+    margin: 0;
+    width: 100%;
+    
 }
 
 .linkBlock{
     border: solid 5px black;
+
     margin: 0;
     width: 100%;
     display: flex;
