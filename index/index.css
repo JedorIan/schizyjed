@@ -14,7 +14,7 @@ body{
     border: solid 5px black;
 
     color: #c595fa;
-    font-size: clamp(1rem, 75%, 2rem);
+    font-size: clamp(1rem, 50vw, 2rem);
     text-align: center;
     margin: 0;
     width: 100%;
@@ -27,7 +27,7 @@ body{
     border: solid 5px black;
 
     margin: 0;
-    font-size: clamp( 1rem, 50%, 2rem);
+    font-size: clamp( 1rem, 35vw, 2rem);
     width: 100%;
     display: flex;
     justify-content: center;
