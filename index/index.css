@@ -14,7 +14,7 @@ body{
     border: solid 5px black;
 
     color: #c595fa;
-    font-size: 10vh;
+    font-size: 75vw;
     text-align: center;
     margin: 0;
     width: 100%;
@@ -27,7 +27,7 @@ body{
     border: solid 5px black;
 
     margin: 0;
-    font-size: 7.5vh;
+    font-size: 50vw;
     width: 100%;
     display: flex;
     justify-content: center;
