@@ -25,10 +25,10 @@ body{
 .linkBlock{
     border: solid 5px black;
 
-    background-image: url('images/test1.jpeg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
 
     font-size: 15vh;
 
@@ -38,6 +38,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.mushLink{
+    background-image: url(images/test1.jpeg);
 }
 
 .linkBlock, a{
