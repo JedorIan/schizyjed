@@ -22,16 +22,21 @@ body{
     align-items: center;
 }
 
-.linkBlock{
-    border: solid 5px black;
+.linkBlock::before{
+    content: "";
+    position: fixed;
+    inset: 0;
 
-    background-attachment: fixed;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    
+    z-index: -1;
+}
 
+.linkBlock{
+    border: solid black 3px;
     font-size: 15vh;
-
     margin: 0;
     border-radius: 60% 40% 37% 18% / 37% 82% 19% 54%;
     width: 100%;
@@ -40,7 +45,7 @@ body{
     align-items: center;
 }
 
-.mushLink{
+#mushroomLink::before{
     background-image: url(../images/test1.jpeg);
 }
 
