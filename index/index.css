@@ -14,7 +14,6 @@ body{
     border: solid 5px black;
 
     color: #c595fa;
-    font-size: clamp(1rem, 75vw, 5rem);
     text-align: center;
     margin: 0;
     width: 100%;
@@ -26,8 +25,13 @@ body{
 .linkBlock{
     border: solid 5px black;
 
+    background-image: url('images/test1.jpeg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    
     margin: 0;
-    font-size: clamp(1rem, 35vw, 5rem);
+    border-radius: 60% 40% 37% 18% / 37% 82% 19% 54%;
     width: 100%;
     display: flex;
     justify-content: center;
