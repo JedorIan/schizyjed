@@ -25,11 +25,13 @@ body{
 .linkBlock{
     border: solid 5px black;
 
-    background-image: url('images/test1.jpeg');
+    background-image: url('test1.jpeg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
-    
+
+    font-size: 15vh;
+
     margin: 0;
     border-radius: 60% 40% 37% 18% / 37% 82% 19% 54%;
     width: 100%;
