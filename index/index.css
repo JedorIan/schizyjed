@@ -41,7 +41,7 @@ body{
 }
 
 .mushLink{
-    background-image: url(images/test1.jpeg);
+    background-image: url(../images/test1.jpeg);
 }
 
 .linkBlock, a{
